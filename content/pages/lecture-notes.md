@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with notes from selected lectures.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -33,7 +35,7 @@ LECTURE NOTES
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_481js09_lec01))
+({{% resource_link 7b392c52-9181-bbca-29ce-761b76d7a32f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +47,7 @@ Introduction
 Historical view of regional economics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_481js09_lec02))
+({{% resource_link cc419ea9-171f-de70-a4b5-a8be9afc145e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +65,7 @@ Historical view of regional economics
 Neoclassical regional growth and location theories, part 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_481js09_lec03))
+({{% resource_link 38bf2b98-1aed-27cc-e2df-648b360646d9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +89,7 @@ Neoclassical regional growth and location theories, part 2
 Alternative regional growth and location theories
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_481js09_lec05))
+({{% resource_link 9d3a460f-6bbc-e471-83ce-a84c589a6e7b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +101,7 @@ Alternative regional growth and location theories
 Accounting for the economic base of a region
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_481js09_lec06))
+({{% resource_link b8008f03-f924-05b5-454e-480d38e5dd1d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +125,7 @@ Influence of globalization on factor mobility
 Deindustrialization and restructuring
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_481js09_lec08))
+({{% resource_link 435d6d7d-eae6-72b1-2b99-f75699842b1d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -143,9 +145,9 @@ Industry diversification and concentration: a case study of chemical industry in
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit11_481js09_lec09a))
+({{% resource_link 93ee7d96-cf04-bea3-21a1-010ac578b4ff "PDF" %}})
 
-([PDF]({{< baseurl >}}/resources/mit11_481js09_lec09b))
+({{% resource_link c27c1cf2-bc47-c657-a2ac-044beb7fd83f "PDF" %}})
 
 
 {{< tdclose >}}
@@ -159,7 +161,7 @@ Industry diversification and concentration: a case study of chemical industry in
 Agglomeration and dispersal economies, part 2: Globalization: development opportunity or hindrance?
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_481js09_lec10))
+({{% resource_link 3493a301-0c7b-3bd2-61ba-53cd029107ca "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -183,7 +185,7 @@ Spatial dispersal of innovation, part 1: Theories of information technology and 
 Spatial dispersal of innovation, part 2: Measurement issues
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_481js09_lec12))
+({{% resource_link 6f20af3e-3562-eb69-31e3-8217c37e8bae "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -195,7 +197,7 @@ Spatial dispersal of innovation, part 2: Measurement issues
 Spatial dispersal of innovation, part 3: Measurement issues (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_481js09_lec13))
+({{% resource_link fe3aec05-a882-0c5b-2e22-3ba836731d3c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -213,7 +215,7 @@ Spatial dispersal of innovation, part 3: Measurement issues (cont.)
 Overview of regional economic accounting structures
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_481js09_lec14))
+({{% resource_link 4379971b-278c-9bd8-f55a-7f2b641da5f4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -237,7 +239,7 @@ Regional and multiregional accounting structures, part 1
 Regional and multiregional accounting structures, part 2 (Slides developed by Xin Li. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_481js09_lec16))
+({{% resource_link fc58ad91-753b-e72b-caf9-9154059d81a9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -249,7 +251,7 @@ Regional and multiregional accounting structures, part 2 (Slides developed by Xi
 Uses of accounts: linkage analyses (Based on a presentation by Anne Schwieger. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_481js09_lec17))
+({{% resource_link 73428ff0-63ba-74bb-7af5-9a1ea4a132ae "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -261,7 +263,7 @@ Uses of accounts: linkage analyses (Based on a presentation by Anne Schwieger. U
 Social accounting matrices: environmental and social multipliers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_481js09_lec18))
+({{% resource_link 4d328a26-6630-3e5d-3296-c2bd3387aae1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -281,9 +283,9 @@ Imputations and underground economy
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit11_481js09_lec19a))
+({{% resource_link 57831bde-2e4d-1e4b-f6c9-dbeb3c11cf48 "PDF" %}})
 
-([PDF]({{< baseurl >}}/resources/mit11_481js09_lec19b))
+({{% resource_link c554e219-4bcd-33fa-1278-c45333202191 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -315,7 +317,7 @@ Price indices
 Shift-share analyses
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_481js09_lec21))
+({{% resource_link 12e594e7-26ee-0388-bab7-def7fa906bf2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -339,7 +341,7 @@ Determinants of city and regional growth
 Regional economics and energy
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_481js09_lec23))
+({{% resource_link 8195ac2e-038c-a707-8f26-c3d9a569ee4e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
