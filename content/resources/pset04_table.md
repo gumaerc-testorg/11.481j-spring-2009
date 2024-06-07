@@ -4,6 +4,7 @@ description: Data file for a problem set to design one component of an economic 
   program for China that will help them allocate investment funds to the North and/or
   South of China.
 file: /courses/11-481j-analyzing-and-accounting-for-regional-economic-growth-spring-2009/68888823f5731e9cdd277dca923d20d5_pset04_table.xls
+file_size: 18944
 file_type: application/msword
 learning_resource_types:
 - Assignments
