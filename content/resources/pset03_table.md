@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Data file for a problem set on analyzing interregional input-output data.
-file: /courses/11-481j-analyzing-and-accounting-for-regional-economic-growth-spring-2009/1c747ba4a177286d1d1e520d1bf778d3_pset03_table.xls
+file: /ol-ocw-studio-app/courses/11-481j-analyzing-and-accounting-for-regional-economic-growth-spring-2009/1c747ba4a177286d1d1e520d1bf778d3_pset03_table.xls
 file_size: 13312
 file_type: application/msword
 learning_resource_types:
