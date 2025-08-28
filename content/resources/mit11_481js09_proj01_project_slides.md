@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of student work for a final project on economic revitalization
   in the Merrimack Valley.
-file: /courses/11-481j-analyzing-and-accounting-for-regional-economic-growth-spring-2009/01f8261cdc3209eb50b8a3617ec1908c_MIT11_481Js09_proj01_project_slides.pdf
+file: /ol-ocw-studio-app/courses/11-481j-analyzing-and-accounting-for-regional-economic-growth-spring-2009/01f8261cdc3209eb50b8a3617ec1908c_MIT11_481Js09_proj01_project_slides.pdf
 file_size: 653813
 file_type: application/pdf
 learning_resource_types:
